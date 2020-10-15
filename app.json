@@ -25,11 +25,11 @@
   },
   "APP_ID": {
    "description": "Get this value from my.telegram.org! Please do not steal",
-   "value": ""
+   "value": "1120232"
   },
   "API_HASH": {
    "description": "Get this value from my.telegram.org! Please do not steal",
-   "value": ""
+   "value": "5b0bb06d24f0d6dd905650d30e96038a"
   },
   "STRING_SESSION": {
    "description": "Get this value by running python3 telesetup.py locally or https://telebot-sessionstring-generator.xditya.repl.run online.",
